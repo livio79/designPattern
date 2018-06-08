@@ -1,6 +1,6 @@
 package designPatterns.oca;
 
-//Vedi Lambda
+//Vedi Lambda libro
 public class Animal {
 	private String name;
 	private boolean canHop;
