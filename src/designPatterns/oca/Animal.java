@@ -1,7 +1,6 @@
 package designPatterns.oca;
 
-
-// Libro OCA pag 209 LAMBDAS introduzione
+//Vedi Lambda
 public class Animal {
 	private String name;
 	private boolean canHop;
